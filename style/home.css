@@ -1,0 +1,39 @@
+/*estilização para todo o site*/
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+} 
+
+.elementos-com-fundo-cinza{
+    background-color: gray;
+}
+
+#rodape{
+    color: white;
+    float: none;
+}
+
+p.fonte-branca {
+    color: white;
+}
+
+#logo{
+    width: 180px;
+    height: 90px;
+    float: right;
+}
+
+#imgbanner{
+    text-align: center;
+}
+
+.fundoAzul{
+    background-color: blue;
+}
+
+#conteudo{
+    width: 50%;
+    float:left;
+    text-align: justify;
+}
